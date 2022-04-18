@@ -1,5 +1,5 @@
 # Synthwaver_lp
-Esse é um projeto de landing page para um processo seletivo de estágio.
+Esse é um projeto de landing page para um processo seletivo de estágio (que acabou cancelado por causa da pandemia).
 
 A landing page é sobre uma comunidade de Synthwave fictícia chamada Synthwaver.
 
